@@ -1,0 +1,2 @@
+# Funding
+Funding tea tesnet
